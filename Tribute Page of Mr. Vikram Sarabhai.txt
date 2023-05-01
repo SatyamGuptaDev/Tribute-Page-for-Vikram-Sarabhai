@@ -1,0 +1,29 @@
+												Tribute Page of Mr. Vikram Sarabhai
+
+
+Deadline - 5PM 30 April 
+
+Task to Complete this project:
+
+1.Learn HTML 
+2. Build a HTML Structure 
+3. Learn CSS
+4. Build CSS layout for website
+5. Enhance Website
+6. Add Media queries
+
+
+HTML Structure of the website
+1. Image in the BG *
+2. About Section * 
+3. His Legacy *
+4. Qoute *
+5. TimeLine Table *
+
+CSS Elements to do
+1. Set BG photo in the div on top
+2. Set classes of Headings and Para
+3. add attributes to that
+4. div qoute 
+5. add attriutes for Table
+ 
